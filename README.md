@@ -21,4 +21,3 @@
 <a href="https://twitter.com/ShwetankDixit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ShwetankDixit1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shwetankdixit_/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="ShwetankDixit_" height="30" width="40" /></a>
 
-### Let's Connect :coffee:
