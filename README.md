@@ -14,13 +14,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
+### Let's Connect :coffee:
+<p align="left">
+<a href="https://www.linkedin.com/in/shwetank-dixit-132426190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shwetank-dixit-132426190" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Shwetank-Dixit-4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="shwetank-dixit" height="30" width="40" /></a>
+<a href="https://twitter.com/ShwetankDixit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ShwetankDixit1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shwetankdixit_/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="ShwetankDixit_" height="30" width="40" /></a>
 
 ### Let's Connect :coffee:
-<p align="center">
-	<a href="https://www.linkedin.com/in/shwetank-dixit-132426190/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/shwetankdixit_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-  <a href="https://www.quora.com/profile/Shwetank-Dixit-4"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="shwetank-dixit"/></a>
-	<a href="https://twitter.com/ShwetankDixit1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
-![alt text](./images/bottom.svg)
