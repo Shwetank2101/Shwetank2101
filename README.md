@@ -11,7 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=Shwetank2101&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 
-
+[Wine Quality Prediction](https://wine-quality-prdiction.herokuapp.com/)
+[Diabetes Prediction](https://checkyourdiabetes.herokuapp.com/)
 
 
 ### Let's Connect :coffee:
