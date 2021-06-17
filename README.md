@@ -7,8 +7,6 @@
 - 💬 Ask me about python,c++,c,competitive programming
 - 📫 How to reach me: Shwetankdixitofficial@gmail.com 
 - ⚡ Fun fact: I love to make smile on others face more than on mine 
--  Live Project - ![Wine Quality Prediction](https://wine-quality-prdiction.herokuapp.com/)
--               - ![Diabetes Prediction](https://checkyourdiabetes.herokuapp.com/)
 
 ![](https://komarev.com/ghpvc/?username=Shwetank2101&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
