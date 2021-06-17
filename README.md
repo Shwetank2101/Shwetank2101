@@ -12,7 +12,7 @@
 
 ### Check my Live Projects 
 - 🍷  [Wine Quality Prediction](https://wine-quality-prdiction.herokuapp.com/)
-- 🚑[Diabetes Prediction](https://checkyourdiabetes.herokuapp.com/)
+- 🩺 [Diabetes Prediction](https://checkyourdiabetes.herokuapp.com/)
 
 
 ### Let's Connect :coffee:
