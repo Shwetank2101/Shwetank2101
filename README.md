@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on face recognition attendence system
+- 🔭 I’m currently working on covid dashboard
 - 🌱 I’m currently learning dsa algorithms
 - 💬 Ask me about python,c++,c,competitive programming
 - 📫 How to reach me: Shwetankdixitofficial@gmail.com 
